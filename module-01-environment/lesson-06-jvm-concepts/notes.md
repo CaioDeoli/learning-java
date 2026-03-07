@@ -1,0 +1,16 @@
+# Conhecendo a Máquina Virtual Java (JVM)
+- Java é uma linguagem pré-compilada
+- Para executar Java em um pc precisamos de um software intermediario que traduza um código pré compilado, para uma linguagem nativa de máquina
+- Esse software é o Java Virtual Machine que precisa estar instalado no computador
+- Como funciona um programa compilado nativamente: 
+  - Programa em C (código fonte) -> compilador -> binário. código nativo compatível com o SO e arquitetura do hardware -> SO executa
+  - Programa em C precisa de um compilador para cada SO por exemplo. Um binário diferente
+  - As vezes precisa de um código fonte especifico para cada SO
+- A JVM simplifica esse processo
+  - Ele emula uma máquina fisíca
+  - Um único codigo fonte funciona em qualquer arquitetura
+  - Java (código fonte) -> compilador -> bytecode -> interpretado pela JVM compatível com o SO
+    - Um bytecode serve para todos os SO se eles tiverem o JVM instalado
+  - Outras linguagens também podem ser compiladas em bytecode. Ex.: Kotlin
+- Não deixa tudo lento? JIT na JVM consegue compilar em tempo de execução se ele achar necessário para melhorar a performance
+  - Em alguns caso pode ser ate mais rapido que código rodado nativamente porque o JIT identifica quando um codigo é executado repetidas vezes e diminui o tempo de compilação

@@ -1,0 +1,12 @@
+# Um pouco sobre a história do Java
+- 1991 - Sun microsystems; Projeto Green; C e C++; Oak; Duque
+- Java; Região conhecida pela produção de café
+- 1993 - A web explodiu; Interações; Applets
+- 1995 - Java 1.0a2; Write once, run everywhere
+- 1996 - Java 1.0, JavaOS e JavaOne
+- 1998 - Java Community Process (JCP)
+- Java em aplicações para servidores; Diminui o foco em web
+- 2006 - Java se torna open source (GNU)
+- 2009 - Oracle compra a Sun
+- 2017 - Ciclo de novas versões mais curto
+- Utilizadas para servidores e dispositivos pequenos, de pequenas aplicações até grandes aplicações 

@@ -1,0 +1,11 @@
+# Instalando o JDK no Ubuntu e macOS com SDKMan
+- escolhendo uma distribuicao
+- instalador oficial ou gerenciador de pacotes
+- sdkman -> instalar várias versoes com poucos comandos
+- a outra opção é ficar alterando variaveis de ambiente
+- Baixe a 17 com sdkman
+- java -version
+- sdk install java identif
+- sdk use java identif
+- echo $JAVA_HOME
+- sdk default java identif
