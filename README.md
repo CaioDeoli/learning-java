@@ -8,13 +8,15 @@ O projeto está dividido em módulos conforme o progresso no curso:
 
 - **[Module 01: Environment](./module-01-environment/)**
   - Configuração do JDK, JVM, JRE e ferramentas de desenvolvimento.
+- **[Module 02: Java Fundamentals](./module-02-fundamentals/)**
+  - Sintaxe básica, tipos primitivos, operadores, condicionais e manipulação de Strings.
 
 ## Tecnologias e Convenções
 
 - **Linguagem:** Java 21+.
 - **Padrão de Nomenclatura:**
-  - Código e pastas em **Inglês** (padrão de mercado).
-  - Documentação e comentários em **Português** (foco no aprendizado).
+  - Arquivos e pastas em **Inglês** (padrão de mercado).
+  - Documentação, códigos e comentários em **Português** (foco no aprendizado).
 - **Ferramentas:** VS Code.
 
 ---
