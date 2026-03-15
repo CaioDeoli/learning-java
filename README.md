@@ -10,6 +10,8 @@ O projeto está dividido em módulos conforme o progresso no curso:
   - Configuração do JDK, JVM, JRE e ferramentas de desenvolvimento.
 - **[Module 02: Java Fundamentals](./module-02-fundamentals/)**
   - Sintaxe básica, tipos primitivos, operadores, condicionais e manipulação de Strings.
+- **[Module 03: Control flow and operators](./module-03-control-flow-and-operators/)**
+  - Estruturas de decisão (`if`, `switch`), loops (`for`, `while`, `do-while`) e operadores para controlar o fluxo do programa.
 
 ## Tecnologias e Convenções
 
